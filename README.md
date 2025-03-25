@@ -1,2 +1,0 @@
-# EricTurn.github.io
-Portfolio
