@@ -718,6 +718,36 @@ section,
   background-color: var(--accent-color);
 }
 
+/* stuff I added */
+
+.skills-section {
+  padding: 40px 0;
+  background-color: #f4f4f4;
+}
+
+
+.skills-category {
+  margin-bottom: 30px;
+}
+
+.skills-category h3 {
+  font-size: 1rem;
+  color: #333;
+}
+
+.skills-category ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.skills-category li {
+  font-style: normal;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+
+
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
