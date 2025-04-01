@@ -1312,10 +1312,10 @@ section,
   min-width: 200px; /* Prevents it from shrinking too much */
 }
 
-.skill-custom-category ul {
+/* .skill-custom-category ul {
   /* list-style-type: none; */
   /* padding: 0; */
-}
+/* } */ 
 
 .skill-custom-category h3 {
   margin-bottom: 10px;
